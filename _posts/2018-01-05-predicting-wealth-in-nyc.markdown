@@ -245,6 +245,9 @@ comprehensive writeup can be found
 
 *****
 
+Special thanks to Qijia Jiang for feedback on our experimental approach and to 
+Niharika Bedekar for reading drafts of this post.
+
 If you have any questions, suggestions, or fixes, please don’t hesitate to
 contact us! My email is [**vincentsc at cs dot stanford dot edu**], or you can
 find me on Twitter as [@vinceschen](http://twitter.com/vinceschen). Dan’s email
