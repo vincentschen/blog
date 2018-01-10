@@ -42,6 +42,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-google-analytics: UA-96755925-1
+google_analytics: UA-96755925-1
 disqus:
   shortname: vincentsc
