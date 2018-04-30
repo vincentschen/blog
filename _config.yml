@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   writing about building
 baseurl: "/blog" # !important- that this matches repo name for github project pages
 url: "http://vincentsc.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vinceschen
+twitter_username: vincentsunnchen
 github_username:  vincentschen
 
 # Build settings

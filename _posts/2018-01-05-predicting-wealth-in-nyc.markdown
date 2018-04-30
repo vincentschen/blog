@@ -252,7 +252,7 @@ Niharika Bedekar for reading drafts of this post.
 
 If you have any questions, suggestions, or fixes, please don’t hesitate to
 contact us! My email is [**vincentsc at cs dot stanford dot edu**], or you can
-find me on Twitter as [@vinceschen](http://twitter.com/vinceschen). Dan’s email
+find me on Twitter as [@VincentSunnChen](http://twitter.com/VincentSunnChen). Dan’s email
 is **[dxyu at stanford dot edu]** and his personal site is
 [http://danyu.me/](http://danyu.me/).
 
