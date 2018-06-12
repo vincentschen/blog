@@ -3,7 +3,6 @@ layout: post
 title:  Predicting Wealth in New York City from FourSquare Check-ins
 excerpt: Applying machine learning to understand the people and businesses in our cities
 permalink: predicting-wealth-in-nyc
-canonical-url: https://towardsdatascience.com/predicting-wealth-in-nyc-53b854c0a8a0
 ---
 ### Motivation
 
@@ -16,7 +15,7 @@ understand the dynamics between businesses and the people affected by them.
 However, relying on costly and infrequent government census services to provide
 demographic information for large, changing cities quickly becomes unfeasible.
 
-[Dan Yu](https://medium.com/@yudan96) and [I](http://vincentsc.com) were curious
+[Dan Yu](https://medium.com/@yudan96) and [I](http://twitter.com/VincentSunnChen) were curious
 about how location-based social media might help us address this problem. Many
 companies (think Yelp, Twitter, Foursquare) have real-time data about user
 check-ins, preferences, and their local businesses. So, we attempted to compile
