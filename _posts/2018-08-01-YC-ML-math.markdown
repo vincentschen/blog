@@ -1,0 +1,6 @@
+---
+layout: redirect
+title:  "Learning Math for Machine Learning"
+excerpt: "[YC blog] It’s not entirely clear what level of mathematics is necessary to get started in machine learning..."
+redirect_to: https://blog.ycombinator.com/learning-math-for-machine-learning/
+---

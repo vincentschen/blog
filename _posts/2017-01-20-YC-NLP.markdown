@@ -1,0 +1,6 @@
+---
+layout: redirect
+title:  "How To Get Into Natural Language Processing"
+excerpt: "[YC blog] What is NLP? Why now? Should I get a PhD? What are the biggest challenges?"
+redirect_to: https://blog.ycombinator.com/how-to-get-into-natural-language-processing/
+---
