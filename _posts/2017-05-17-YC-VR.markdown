@@ -1,6 +1,6 @@
 ---
 layout: redirect
 title:  "How to Get into VR"
-excerpt: "[YC blog] The process of building a beautiful experience requires the work of not only engineers, but artists... designers, and storytellers as well (game developers will understand this)."
+excerpt: "The process of building a beautiful experience requires the work of not only engineers, but artists... designers, and storytellers as well (game developers will understand this)."
 redirect_to: https://blog.ycombinator.com/how-to-get-into-vr/
 ---
