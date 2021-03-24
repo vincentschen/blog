@@ -3,6 +3,7 @@ layout: post
 title:  Predicting Wealth in New York City from FourSquare Check-ins
 excerpt: Applying machine learning to understand the people and businesses in our cities
 permalink: predicting-wealth-in-nyc
+hidden: true
 ---
 ### Motivation
 
