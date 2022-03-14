@@ -3,6 +3,7 @@ layout: post
 title:  Red Pins on Tobagonian Highways
 excerpt: I’m walking because I couldn’t rent a car...
 permalink: red-pins
+hidden: true
 ---
 I’m walking because I couldn’t rent a car because the rental lady wouldn’t take a risk because renter’s insurance wouldn’t cover me because I’m not 25 years old. Along the Tobagonian highway, I walk upstream (here, the right side of the road) against traffic, so that oncoming cars can see me and I can see them. I’m safe from the upstream cars too— they whir past from behind me, on the other side of the road. I’ve become comfortable— with the mixture of sunscreen and sweat between my pores and with the feeling that beyond following what seems like the main road, I don’t quite know where I’m going. 
 
